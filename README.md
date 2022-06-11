@@ -9,7 +9,7 @@
 # Statistics Behind Spotify - a nonparametric approach to music
 ![spotify_logo](readme_images/spotify_logo.png)
 <p align="center">
-  <img width="460" height="300" src="readme_images/spotify_logo.png">
+  <img src="readme_images/spotify_logo.png">
 </p>
 
 ## :dart: Framework and goals:
