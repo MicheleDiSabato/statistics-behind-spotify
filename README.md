@@ -7,7 +7,6 @@
 
 
 # Statistics Behind Spotify - a nonparametric approach to music
-![spotify_logo](readme_images/spotify_logo.png)
 <p align="center">
   <img src="readme_images/spotify_logo.png">
 </p>
