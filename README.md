@@ -7,7 +7,7 @@
 
 
 # Statistics Behind Spotify - a nonparametric approach to music
-![spotify_logo](readme_images/spotify_logo.png)
+![spotify_logo](readme_images/spotify_logo.png#center)
 
 ## :dart: Framework and goals:
 Spotify is one of the most widely used audio streaming and media services provider. On top of many songs and podcasts, Spotify also provides access to user and song related data. These data are accessible through the [Spotify API](https://developer.spotify.com/console/) and comprise many technical features that characterize each song, such as its tempo, its popularity, duration, loudness or even its mood. Based on these features, we asked ourselves: is it possible to predict the popularity of a song based on its technical features? Which aspect of a song should an artist focus on to get more visibility? Could record labels or a new up-and-coming artist benefit from these data-driven and data-informed decisions? Answering these questions required a lot of work, both in terms of data collection, preparation, processing, cleaning, exploration and in terms of analysis.
